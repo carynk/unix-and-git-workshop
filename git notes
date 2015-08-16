@@ -1,0 +1,6 @@
+
+
+GIT learnings:
+1. git add = takes a snapshot of a file before committing
+2. git commit -m () = requires a comment before committing so that any changes you've made are clear and documented
+3. I *think* forking happens only within Github and not in the terminal.
